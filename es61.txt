@@ -1,0 +1,1 @@
+This is a demo blog content for the default parameter feat in es6
