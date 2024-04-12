@@ -1,0 +1,4 @@
+We first define a traditional function summonDragon and an arrow function summonPhoenix to demonstrate the syntax difference.
+Next, we show how arrow functions are useful in callback functions. We define a traditional function performJutsu that takes a callback function and invoke it. Then, we define an arrow function performTechnique that does the same.
+We call performJutsu and performTechnique, passing in an anonymous function as the callback, which logs "Jutsu completed!" and "Technique completed!" respectively.
+This example illustrates how arrow functions provide a more concise syntax compared to traditional functions, making code easier to read and write. Just as mastering new techniques enhances a ninja's skills, using arrow functions enhances JavaScript code efficiency.

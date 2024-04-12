@@ -1,0 +1,6 @@
+The summonNinja function takes an object as its parameter, with default values set for ninja and jutsu.
+If no argument is provided when calling the function, it will automatically summon Naruto and use the Shadow Clone Jutsu.
+We use object destructuring to extract ninja and jutsu from the parameter object, with default values set if they are not provided.
+When invoking the function with specified parameters, the provided values override the default values.
+Finally, we log the summoned ninja and the technique to be used.
+This example demonstrates how default parameters allow for flexible function invocation, providing default values when arguments are not explicitly passed. Just as summoning a ninja brings them to the battlefield, JavaScript summons default values when parameters are not provided.

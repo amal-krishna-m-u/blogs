@@ -1,0 +1,6 @@
+In this example, we'll explore array destructuring using an anime reference from "Naruto":
+The unleashNinjaDetails function takes an array containing ninja details as its parameter.
+We use array destructuring to extract the elements of the array directly into variables ninjaName, village, and bounty.
+These variables then hold the values of the respective elements of the ninjaDetails array.
+Finally, we log the ninja's name, village, and bounty to the console.
+This example illustrates how array destructuring simplifies the extraction of values from arrays, making code more concise and readable. Just as a ninja swiftly evades attacks in battle, JavaScript can quickly access data with destructuring.
